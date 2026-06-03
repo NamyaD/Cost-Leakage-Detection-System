@@ -28,8 +28,7 @@ This project simulates how businesses analyze operational costs and detect hidde
 ✅ Report Generation  
 ✅ Admin Dashboard  
 ✅ Total Loss Estimation  
-✅ Pie Chart Based Analysis  
-✅ Data Visualization Logic  
+
 
 ---
 
