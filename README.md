@@ -27,7 +27,7 @@ This project simulates how businesses analyze operational costs and detect hidde
 ✅ Expense Categorization  
 ✅ Report Generation  
 ✅ Admin Dashboard  
-✅ Total Loss Estimation  
+
 
 
 ---
