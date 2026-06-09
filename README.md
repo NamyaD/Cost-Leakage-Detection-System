@@ -25,7 +25,6 @@ This project simulates how businesses analyze operational costs and detect hidde
 ✅ Revenue Leakage Detection  
 ✅ Search & Filter Transactions  
 ✅ Expense Categorization  
-✅ Report Generation  
 ✅ Admin Dashboard  
 
 
