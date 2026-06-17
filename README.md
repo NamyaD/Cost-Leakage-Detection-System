@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Cost Leakage Detection System
+# 💰 Cost Leakage Detection 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=Cost+Leakage+Detection+System;Built+Using+C%2B%2B+%26+Data+Structures;Expense+Analysis+and+Fraud+Detection;Smart+Business+Cost+Monitoring" />
 
