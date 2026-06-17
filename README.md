@@ -65,7 +65,7 @@ Cost-Leakage-Detection-System/
 
 ---
 
-# 📉 Key Functionality
+# 📉 Key Functions
 
 ### 🔎 Leakage Detection Includes:
 - Duplicate payments
