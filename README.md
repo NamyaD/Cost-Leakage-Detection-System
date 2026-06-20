@@ -132,7 +132,6 @@ Enter Choice:
 - Real-Time Expense Monitoring
 - Database Integration
 - Interactive GUI Dashboard
-- Cloud Expense Tracking
 - Machine Learning Predictions
 
 ---
