@@ -1,22 +1,18 @@
-<div align="center">
+# 💰 Cost Leakage Detection System
 
-# 💰 Cost Leakage Detection 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=Cost+Leakage+Detection+System;Built+Using+C%2B%2B+%26+Data+Structures;Expense+Analysis+and+Fraud+Detection;Smart+Business+Cost+Monitoring" />
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=Cost+Leakage+Detection+System;Built+Using+Python+%26+Power+BI;Procurement+Analytics+%26+Fraud+Detection;Smart+Business+Cost+Monitoring)
 
 ---
 
 ## 📌 Overview
 
-A smart **Cost Leakage Detection System** developed using **C++** to identify unnecessary expenses, unusual transactions, duplicate payments, and financial inefficiencies within an organization.
+A smart **Cost Leakage Detection System** developed using **Python and Power BI** to identify unnecessary expenses, unusual transactions, duplicate payments, and financial inefficiencies within a procurement context.
 
-This project simulates how businesses analyze operational costs and detect hidden revenue leakages using structured data analysis and logical rules.
+This project analyzes operational costs and detects hidden revenue leakages using data analysis, statistical techniques, and interactive dashboards.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 ✅ Expense Record Management  
 ✅ Duplicate Transaction Detection  
@@ -25,139 +21,127 @@ This project simulates how businesses analyze operational costs and detect hidde
 ✅ Revenue Leakage Detection  
 ✅ Search & Filter Transactions  
 ✅ Expense Categorization  
-✅ Admin Dashboard  
-
-
+✅ Power BI Dashboard  
 
 ---
 
-# 📊 System Modules
+## 📊 System Modules
 
 | Module | Function |
 |---|---|
-| 💳 Transaction Management | Store and manage expenses |
-| 🔍 Leakage Detection | Detect abnormal spending |
-| 📈 Analytics Dashboard | Analyze financial trends |
-| 🧾 Report Generator | Generate summaries |
-| 🏢 Department Tracking | Monitor department costs |
+| 💳 Transaction Management | Store and manage expense records |
+| 🔍 Leakage Detection | Detect abnormal spending patterns |
+| 📈 Analytics Dashboard | Visualize financial trends in Power BI |
+| 🧾 Report Generator | Generate summaries and export outputs |
+| 🏢 Department Tracking | Monitor costs by department/vendor |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=python,jupyter,git,github)
+
+| Tool | Purpose |
+|---|---|
+| Python | Data processing and leakage detection logic |
+| Jupyter Notebook | Interactive analysis and exploration |
+| Pandas / NumPy | Data manipulation and statistical analysis |
+| Matplotlib / Seaborn | Data visualization within notebooks |
+| Power BI | Interactive business intelligence dashboard |
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
-```bash
+```
 Cost-Leakage-Detection-System/
 │
-├── main.cpp
-├── expense_manager.cpp
-├── expense_manager.h
-├── analytics.cpp
+├── notebooks/              # Jupyter notebooks for analysis
+├── dashboard/              # Power BI dashboard files (.pbix)
+├── outputs/                # Generated reports and exported data
 ├── README.md
+└── Screenshot 2026-05-09 140228.png   # Dashboard preview
 ```
 
 ---
 
-# 📉 Key Functions
+## 📉 Key Detection Logic
 
 ### 🔎 Leakage Detection Includes:
-- Duplicate payments
-- Unnecessary operational expenses
-- Abnormal transaction amounts
-- Repeated vendor payments
-- Budget overflow alerts
+
+- Duplicate payments to same vendor
+- Unnecessary or unbudgeted operational expenses
+- Abnormal transaction amounts (statistical outliers)
+- Repeated vendor payments within short time windows
+- Budget overflow alerts by department
 
 ---
 
-# 🧠 Concepts Used
+## 🧠 Concepts & Techniques Used
 
-- Object-Oriented Programming
-- STL Vectors & Maps
-- Searching & Sorting
-- File Handling
-- Menu-Driven Programming
-- Data Analysis Logic
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Outlier Detection
+- Duplicate Record Identification
+- Procurement Analytics
+- Power BI Data Modelling & DAX Measures
+- Interactive Visualizations
 
 ---
 
-# ▶️ How to Run
+## ▶️ How to Run
 
-## Clone Repository
+### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/cost-leakage-detection-system.git
+git clone https://github.com/NamyaD/Cost-Leakage-Detection-System.git
+cd Cost-Leakage-Detection-System
 ```
 
-## Compile Program
+### Install Dependencies
 
 ```bash
-g++ main.cpp -o leakage
+pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-## Run Program
+### Launch Jupyter Notebooks
 
 ```bash
-./leakage
+jupyter notebook notebooks/
 ```
+
+### View Dashboard
+
+Open the `.pbix` file in the `dashboard/` folder using **Microsoft Power BI Desktop**.
 
 ---
 
-# 📸 Preview
+## 📸 Dashboard Preview
 
-```text
-===== COST LEAKAGE DETECTION SYSTEM =====
-
-1. Add Expense Record
-2. Detect Cost Leakage
-3. View Expense Report
-4. Search Transactions
-5. Analytics Dashboard
-6. Exit
-
-Enter Choice:
-```
+![Dashboard Preview](Screenshot%202026-05-09%20140228.png)
 
 ---
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - AI-Based Fraud Detection
 - Real-Time Expense Monitoring
-- Database Integration
-- Interactive GUI Dashboard
-- Machine Learning Predictions
+- Database Integration (SQL / MongoDB)
+- Web App Interface (Flask / Streamlit)
+- Machine Learning Predictions for anomaly detection
 
 ---
-
-<div align="center">
 
 ## 📈 Project Goal
 
-Helping organizations reduce hidden financial losses through smart expense monitoring and analytical detection systems.
-
-</div>
+Helping organizations reduce hidden financial losses through smart procurement expense monitoring and data-driven detection systems.
 
 ---
 
-<div align="center">
-
-## 🌟 Give this repository a star if you like it ⭐
-
-</div>
+## 🌟 Give this repository a star if you found it useful ⭐
 
 ---
-
-<div align="center">
 
 ### 👩‍💻 Developed By
 
-# Namya Dutta
-
-</div>
+**Namya Dutta**
