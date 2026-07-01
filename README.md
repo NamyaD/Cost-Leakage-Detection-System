@@ -12,7 +12,7 @@ This project analyzes operational costs and detects hidden revenue leakages usin
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Expense Record Management  
 ✅ Duplicate Transaction Detection  
